@@ -1,5 +1,7 @@
 # Automne 2018
 
+  Les horaires sont temporaires *** En cours de construction ***
+
 # Calendrier GINF
 ![alt tag](./GINF18A.png)
 
