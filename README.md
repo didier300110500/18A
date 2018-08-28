@@ -1,11 +1,11 @@
 # Automne 2018
 
 # Calendrier GINF
-![alt tag](https://github.com/CollegeBoreal/17A/blob/master/GINF18A.png)
+![alt tag](./GINF18A.png)
 
 
 # Calendrier GINQ
-![alt tag](https://github.com/CollegeBoreal/17A/blob/master/GINQ18A.png)
+![alt tag](./GINQ18A.png)
 
 ## ÉTAPE 1
 
