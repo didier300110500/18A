@@ -25,7 +25,7 @@
 
 |     Code	                                                 | Titre du cours                               | Commentaires           |
 |:---------------------------------------------------------------|:-------------------------------------------- |:-----------------------| 
-| [INF1006](https://github.com/CollegeBoreal/INF1006-201-18A-02) | Système de gestion de bases de données       |  (BR)                  |
+| [INF1006](https://github.com/CollegeBoreal/INF1006-202-18A-02) | Système de gestion de bases de données       |  (BR)                  |
 | INF1018                                                        | Formation aux usagers                        |                        |
 | INF1023                                                        | Réseaux locaux et à distance                 |  (RE)                  |
 | [INF1044](https://github.com/CollegeBoreal/INF1044-201-18A-02) | Logiciels de développement                   |                        |
