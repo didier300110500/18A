@@ -1,7 +1,5 @@
 # Automne 2018
 
-  Les horaires sont temporaires *** En cours de construction ***
-
 # Calendrier GINF
 ![alt tag](./GINF18A.png)
 
@@ -11,19 +9,19 @@
 
 ## ÉTAPE 1
 
-|     Code	                                                 | Titre du cours                               | Commentaires           |
+|     Code	                                                     | Titre du cours                               | Commentaires           |
 |:---------------------------------------------------------------|:-------------------------------------------- |:-----------------------| 
-| FRA1005	                                                 | Français I                                   | (LB)                   |
-| ENG1010	                                                 | Prep. English for Professional Communication |                        |
-| MAT1018	                                                 | Mathématiques informatiques                  |                        |
-| INF1035	                                                 | Logiciels d'applications                     |                        |
+| FRA1005	                                                       | Français I                                   | (LB)                   |
+| ENG1010	                                                       | Prep. English for Professional Communication |                        |
+| MAT1018	                                                       | Mathématiques informatiques                  |                        |
+| INF1035	                                                       | Logiciels d'applications                     |                        |
 | [INF1039](https://github.com/CollegeBoreal/INF1039-201-18A-02) | Introduction aux algorithmes                 | (BR)                   |
-| [INF1040](https://github.com/CollegeBoreal/INF1040-201-17A-02) | Introduction à la réseautique                |                        |
-| INF1074	                                                 | Systèmes d'exploitation et ordinateurs       |                        |
+| INF1040	                                                       | Introduction à la réseautique                |                        |
+| INF1074	                                                       | Systèmes d'exploitation et ordinateurs       |                        |
 
 ## ÉTAPE 3
 
-|     Code	                                                 | Titre du cours                               | Commentaires           |
+|     Code	                                                     | Titre du cours                               | Commentaires           |
 |:---------------------------------------------------------------|:-------------------------------------------- |:-----------------------| 
 | [INF1006](https://github.com/CollegeBoreal/INF1006-202-18A-02) | Système de gestion de bases de données       |  (BR)                  |
 | INF1018                                                        | Formation aux usagers                        |                        |
